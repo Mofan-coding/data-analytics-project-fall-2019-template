@@ -63,6 +63,16 @@ From these results, I know that if I exptect great returns from investing movie,
  3. Keep your data visualizations and tables in here for people to follow along with your analysis and explore how your data findings are relevant. 
  
 ![Alt text](https://github.com/Mofan-coding/data-analytics-project-fall-2019-template/blob/master/year%20trend.png)
+![Alt text](https://github.com/Mofan-coding/data-analytics-project-fall-2019-template/blob/master/year%20trend%20revenue.png)
+![Alt text](https://github.com/Mofan-coding/data-analytics-project-fall-2019-template/blob/master/genre%20revneue.png)
+![Alt text](https://github.com/Mofan-coding/data-analytics-project-fall-2019-template/blob/master/genre%20rate.png)
+![Alt text](https://github.com/Mofan-coding/data-analytics-project-fall-2019-template/blob/master/runtime-rating.png)
+![Alt text](https://github.com/Mofan-coding/data-analytics-project-fall-2019-template/blob/master/rating-revenue.png)
+![Alt text](https://github.com/Mofan-coding/data-analytics-project-fall-2019-template/blob/master/giant%20company.png)
+![Alt text](https://github.com/Mofan-coding/data-analytics-project-fall-2019-template/blob/master/company%20revenue.png)
+![Alt text](https://github.com/Mofan-coding/data-analytics-project-fall-2019-template/blob/master/company%20rating.png)
+![Alt text](https://github.com/Mofan-coding/data-analytics-project-fall-2019-template/blob/master/actor%20revneue.png)
+![Alt text](https://github.com/Mofan-coding/data-analytics-project-fall-2019-template/blob/master/actor%20rating.png)
 
 # Industry/Civic/Academic Answer(s)
  1. What’s the answer to your original question? Were you able to come to any type of conclusive answer—why or why not?
